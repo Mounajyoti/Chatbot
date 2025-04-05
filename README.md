@@ -2,6 +2,7 @@ Structure of the project:
 
 cv_chatbot_project/
 ├── config/
+│   ├── config.ini
 │   └── base_prompt.txt
 ├── data/
 │   └── cv.txt
