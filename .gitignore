@@ -4,3 +4,7 @@ test
 *.out
 *.ini
 *.json
+.venv
+*.ipynb_checkpoints
+__pycache__
+*.ipynb
