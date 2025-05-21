@@ -1,12 +1,16 @@
 [LLM]
-huggingface_api_token = 
+api_token = 
 model_name = 
 
 [PATHS]
-cv_path = data/cv.txt
+information_path = data/information.txt
 prompt_path = config/base_prompt.txt
 
 [SETTINGS]
 max_new_tokens =
 temperature = 
 history_limit = 
+
+[APP_CONFIG]
+host = 
+port = 

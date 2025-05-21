@@ -1,5 +1,5 @@
 tests/
-data/
+information.txt
 *.log
 *.out
 *.ini
